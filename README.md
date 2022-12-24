@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MonicaLacatus
 - 👀 I’m interested in Chemistry and Chemical Engineering
-- 🌱 I completed my bachelor in Chemistry and Chemical Engineering (TU/Eindhoven) with Honors in Smart Mobility
-- 🌱 I’m currently an MSc Student in Chemical Engineering (TU/Delft)
+- 📚 I completed my bachelor in Chemistry and Chemical Engineering (TU/Eindhoven) with Honors in Smart Mobility
+- 📚 I’m currently an MSc Student in Chemical Engineering (TU/Delft)
 - 📫 How to reach me : www.linkedin.com/in/chemeng-monica-lacatus
 
 <!---
